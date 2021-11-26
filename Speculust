@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Welcome to Speculust</title>
+</head>
+<body>
+<center><h1>Welcome to Speculust</h1></center>
+
+<center><p1>We like to make electronic music that tickles your brain.</p1></center>
+
+<center><img src="headshot.jpg" alt="egosarewatching" height="100" width="100"></center>
+
+
+<center><h2><b>News</b></h2></center>
+
+
+<center><p2><a href="https://speculust.bandcamp.com/">Music page </a></p2></center>
+
+
+
+<center><p>New album on the way!</p></center>
+
+
+
+
+
+<center><h2>More stuff</h2></center>
+
+
+
+
+
+
+
+
+
+
+<style>
+body {
+  background-image: url('temple.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
+
+
+<center><h3><b>New stuff coming soon</b></center>
+
+
+
+
+  <h4><style>
+ .button {
+    opacity: 0.0;
+ }
+
+ .button:hover{
+      color: #FFFFFF;
+       opacity: 1;
+    }
+</style>
+<a href="https://soundcloud.com/alexisegos/static" style="position:absolute;background: #000;width:139px;height:150px;top:100;left:10;" class="button"></a></h4>
+
+
+
+</html>
